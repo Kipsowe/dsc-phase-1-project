@@ -8,7 +8,7 @@ Exploratory data analysis shows that............ Microsoft can use this analysis
 
 ### Business Problem
 Microsoft has decided to create a new movie studio and does not know anything about movie creation. They want to know the basics and also the best kind of movies they can make that will kickstart their production journey without losses and flops.
-
+![alt text](https://github.com/Kipsowe/dsc-phase-1-project/blob/master/images/microsoft.png)
 ### The Data
 This analysis is based on data from IMDB(Internet Movie Database). The datasets used in the analysis are the title basics, ratings, and gross revenue from different movie types. 
 
