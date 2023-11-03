@@ -24,6 +24,7 @@ The genre that generates the most revenue is Action,Adventure,Sci-Fi based on to
 
 It is evident that there is no relationship between runtime( the length of of movie) with ratings and total revenue.
 Ratings also does not have any impact on the revenue.
+
 ![alt text](https://github.com/Kipsowe/dsc-phase-1-project/blob/master/images/runtimeratingcorscatter.jpeg)
 
 ![alt text](https://github.com/Kipsowe/dsc-phase-1-project/blob/master/images/revenueratingcorheatmap.jpeg)
