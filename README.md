@@ -4,7 +4,7 @@
 
 ## Overview
 This project analyzes film production datasets of movie basics, ratings, and revenue with the aim of figuring out which movie types to make when one wants to venture into production.
-Exploratory data analysis shows that............ Microsoft can use this analysis to decide which movie genre to venture into as they launch their movie studio and kickstart their very first film production journey.
+Exploratory data analysis shows that adventure movies are the most popular and Action, Adventure, Sci-Fi are the most profitable. Microsoft can use this analysis to decide which movie genre to venture into as they launch their movie studio and kickstart their very first film production journey.
 
 ### Business Problem
 Microsoft wants to create a new movie studio and venture into film production but does not know anything about the industry. They want to familiarize themselves with the industry and come up with a strategy and approach on how they will enter into the production industry.
