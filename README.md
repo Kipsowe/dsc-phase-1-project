@@ -1,6 +1,6 @@
-## Film Production Analysis(IMDB)
-![alt text](https://github.com/Kipsowe/dsc-phase-1-project/blob/master/images/imdb.jpg)
-Author: Kipsowe Kimatur Emmanuel
+![alt text](https://github.com/Kipsowe/dsc-phase-1-project/blob/master/images/microsoft.png)
+## Microsoft's Film Production Strategy Analysis
+###### # Author: Kipsowe Kimatur Emmanuel
 
 ## Overview
 This project analyzes film production datasets of movie basics, ratings, and revenue with the aim of figuring out which movie types to make when one wants to venture into production.
@@ -12,7 +12,7 @@ Microsoft wants to create a new movie studio and venture into film production bu
 
 ### The Data
 This analysis is based on data from IMDB(Internet Movie Database). The datasets used in the analysis are the title basics, ratings, and gross revenue from different movie types. More information on data can be found on [Data](https://github.com/Kipsowe/dsc-phase-1-project/tree/master/my_data). The data provides movie genres, genre ratings and revenue from diffrent genres both domestically and foreign.
-![alt text](https://github.com/Kipsowe/dsc-phase-1-project/blob/master/images/microsoft.png)
+![alt text](https://github.com/Kipsowe/dsc-phase-1-project/blob/master/images/imdb.jpg)
 ### Methods
 The approach used Exploratory data analysis of the different film production datasets [Data](https://github.com/Kipsowe/dsc-phase-1-project/tree/master/my_data) from IMDB. This gives an overview of which movie genre is rated highest and also which one generates the highest revenue.
 
